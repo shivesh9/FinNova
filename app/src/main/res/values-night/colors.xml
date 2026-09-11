@@ -1,0 +1,8 @@
+<resources>
+    <color name="navy">#0B1728</color><color name="navy_2">#9FC8FF</color>
+    <color name="surface">#101827</color><color name="ink">#F4F7FC</color>
+    <color name="success">#64D89A</color><color name="violet">#B8A6FF</color>
+    <color name="mint">#173A2A</color><color name="lavender">#302757</color>
+    <color name="soft_blue">#1C304B</color><color name="muted">#A9B7C8</color>
+    <color name="line">#2A3749</color><color name="white">#162131</color>
+</resources>
