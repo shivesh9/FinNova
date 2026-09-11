@@ -33,3 +33,9 @@ Open the `NexaPay` folder in Android Studio (JDK 17, Android SDK platform 35), t
 ## Limitations
 
 This intentionally compact portfolio implementation focuses on a runnable local demo. Remote rate refresh and worker scheduling are isolated extension points; no financial API, KYC provider, payment rail, or security claim is included.
+
+
+
+## 📱 Demo APK
+
+[⬇️ Download FinNova Demo APK](https://github.com/anishk-neuroforge/FinNova/releases/download/v1.0.0/FinNova-demo.apk)
