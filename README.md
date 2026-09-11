@@ -1,4 +1,4 @@
-# NexaPay 2.0 — demo multi-currency wallet
+# FinNova 2.0 — demo multi-currency wallet
 
 NexaPay is an Android portfolio project that simulates a multi-currency wallet. It never authenticates against a server, handles real identity documents, or moves real money.
 
